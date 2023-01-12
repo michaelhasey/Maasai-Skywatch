@@ -1,4 +1,3 @@
-##### ![](./resources/UN_logo.png)
 
 # Maasai Skywatch
 by 
