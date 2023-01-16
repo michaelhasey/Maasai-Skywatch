@@ -1,6 +1,6 @@
 
 # Maasai Skywatch
-------------------------------------------------
+
 ### Detecting Illegal Village Burns and Other Spatial Injustices
 
 ------------------------------------------------
