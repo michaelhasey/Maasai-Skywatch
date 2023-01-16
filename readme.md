@@ -13,7 +13,7 @@ Maasai Skywatch is a proposed online tool that uses publicly available satellite
 
 <br>
 
-![](images/intro.png)
+![](images/intro_image.png)
 
 ## Project Page
 
