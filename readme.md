@@ -94,8 +94,8 @@ A proposed user facing GUI to detect land-based injustices against the Maasai is
 
 <br>
 
-1.Yolo-V3 [https://github.com/eriklindernoren/PyTorch-YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3)
-2.labelImg[https://github.com/tzutalin/labelImg] (https://github.com/tzutalin/labelImg)
+1. Yolo-V3 [https://github.com/eriklindernoren/PyTorch-YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3)
+2. labelImg[https://github.com/tzutalin/labelImg] (https://github.com/tzutalin/labelImg)
 
 ## Citation
 
@@ -105,8 +105,8 @@ If you find our paper and dataset useful in your research, please consider citin
 
 ``` 
 @misc{mhasey2021,
-    title={3D Building Classification & Segmentation Pipeline},
+    title={Maasai Skywatch},
     author={Michael Hasey},
-    year={2021},
+    year={2020},
 }
 ```
