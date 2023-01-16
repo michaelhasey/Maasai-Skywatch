@@ -26,7 +26,7 @@ www.michaelhasey.com/maasai-skywatch
 
 Government officials and foreign companies in Tanzania and Kenya are using ecotourism and conservation laws to displace indigenous Maasai people, evicting them and denying them access to watering holes and vital grazing for their livestock.  We use computer vision to provide the Maasai with a tool to quickly identify illegal village burns, forced migrations, & potential land grabs.
 
-![](images/intro_banner.png)
+![](images/intro_banner2.png)
 
 <br>
 
