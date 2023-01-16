@@ -11,10 +11,8 @@ Michael Hasey, Luke McKinley, Rhys Broussard
 
 Maasai Skywatch is a proposed online tool that uses publicly available satellite imagery and sophisticated object-detecting algorithms to monitor, detect, and analyze illegal village burns and other land-related injustices against the Maasai people.
 
-![](images/intro_banner.png)
 
-
-## Project Page
+# Project Page
 
 <br>
 
@@ -22,15 +20,13 @@ Maasai Skywatch is a proposed online tool that uses publicly available satellite
 www.michaelhasey.com/maasai-skywatch
 ```
 
-
 ## Problem Statement
 
 <br>
 
 Government officials and foreign companies in Tanzania and Kenya are using ecotourism and conservation laws to displace indigenous Maasai people, evicting them and denying them access to watering holes and vital grazing for their livestock.  We use computer vision to provide the Maasai with a tool to quickly identify illegal village burns, forced migrations, & potential land grabs.
 
-##### ![](./resources/maasai_tiles.png)
-source: [google earth](https://www.google.com/earth/studio/) / [maxar](https://www.maxar.com)
+![](images/intro_banner.png)
 
 <br>
 
