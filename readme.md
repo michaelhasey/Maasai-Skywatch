@@ -30,7 +30,7 @@ Government officials and foreign companies in Tanzania and Kenya are using ecoto
 
 <br>
 
-![](images/data.png)
+![](images/intro_banner2.png)
 
 <br>
 
@@ -40,7 +40,7 @@ Government officials and foreign companies in Tanzania and Kenya are using ecoto
 
 In order to teach our Object Detection Model to detect villages, we trained it on a custom dataset of 600 satellite images of Maasai villages compiled and augmented within Roboflow, a dataset builder application.  Our final training dataset contained images of villages in various states (burned, not burned, etc.) , landscapes (desert, grassland, etc.)  and contexts (dense, not dense, etc.), allowing our model to detect villages in varying environments and locate instances of potential injustice.
 
-![](images/intro_banner2.png)
+![](images/data.png)
 
 <br>
 
