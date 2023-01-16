@@ -9,9 +9,9 @@ Michael Hasey, Luke McKinley, Rhys Broussard
 
 <br>
 
-Maasai Skywatch is a proposed online tool that uses publicly available satellite imagery and sophisticated object-detecting algorithms to monitor, detect, and analyze land-related injustices against the Maasai people.
+Maasai Skywatch is a proposed online tool that uses publicly available satellite imagery and sophisticated object-detecting algorithms to monitor, detect, and analyze illegal village burns and other land-related injustices against the Maasai people.
 
-![](images/fire_banner.png)
+![](images/intro_banner.png)
 
 
 ## Project Page
