@@ -105,7 +105,7 @@ A proposed user facing GUI to detect land-based injustices against the Maasai is
 
 <br>
 
-If you find our paper and dataset useful in your research, please consider citing:
+If you find this project useful for your research, please consider citing:
 
 ``` 
 @misc{mhasey2021,
