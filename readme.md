@@ -11,8 +11,6 @@ Michael Hasey, Luke McKinley, Rhys Broussard
 
 Maasai Skywatch is a proposed online tool that uses publicly available satellite imagery and sophisticated object-detecting algorithms to identify and locate illegal village burns and land-related injustices against the Maasai people.
 
-<br>
-
 ## Project Page
 
 <br>
@@ -20,8 +18,6 @@ Maasai Skywatch is a proposed online tool that uses publicly available satellite
 ```
 www.michaelhasey.com/maasai-skywatch
 ```
-
-<br>
 
 ## Table of Contents
 
@@ -33,8 +29,6 @@ www.michaelhasey.com/maasai-skywatch
 - [Performance](#Performance)
 - [References](#References)
 - [Citation](#Citation)
-
-<br>
 
 ## Background
 
@@ -52,8 +46,6 @@ In addition to identifying land-based injustices, our model can also identify ho
 
 ![](images/intro_banner2.png)
 
-<br>
-
 ## Dataset
 
 <br>
@@ -65,9 +57,6 @@ Using [labelImg](https://github.com/tzutalin/labelImg), we set bounding boxes ar
 <br>
 
 ![](images/data.png)
-
-<br>
-
 
 ## Model
 
@@ -81,8 +70,6 @@ For model training, follow the instructions and steps within the provided notebo
 maasai-village-notebook.ipynb
 ```
 
-<br>
-
 ## Performance
 
 <br>
@@ -92,8 +79,6 @@ After training our YoloV3 object detection model, we evaluated its performance b
 <br>
 
 ![](images/object_detection_types.png)
-
-<br>
 
 ## Proposed GUI
 
@@ -105,16 +90,12 @@ A proposed user facing GUI to detect land-based injustices against the Maasai is
 
 ![](images/gui.png)
 
-<br>
-
 ## References
 
 <br>
 
 1.Yolo-V3 [https://github.com/eriklindernoren/PyTorch-YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3)
 2.labelImg[https://github.com/tzutalin/labelImg] (https://github.com/tzutalin/labelImg)
-
-<br>
 
 ## Citation
 
