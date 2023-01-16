@@ -6,7 +6,6 @@
 by 
 Michael Hasey, Luke McKinley, Rhys Broussard
 
-------------------------------------------------
 
 ## Summary
 
