@@ -28,7 +28,7 @@ maasai-village-notebook.ipynb
 
 ## Project Page
 
-An expanded description of Maasai Skywatch can be about this project can be found on my personal website here:
+An expanded description of Maasai Skywatch can be found on my personal website here:
 
 <br>
 
