@@ -3,7 +3,6 @@
 ### Detecting Illegal Village Burns and Other Spatial Injustices
 
 ------------------------------------------------
-by 
 Michael Hasey, Luke McKinley, Rhys Broussard
 ------------------------------------------------
 
