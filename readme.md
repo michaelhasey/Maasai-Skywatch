@@ -1,8 +1,6 @@
 
 # Maasai Skywatch
 ### Detecting Illegal Village Burns and Other Spatial Injustices
-
-------------------------------------------------
 Michael Hasey, Luke McKinley, Rhys Broussard
 ------------------------------------------------
 
