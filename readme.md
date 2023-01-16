@@ -15,7 +15,20 @@ Maasai Skywatch is a proposed online tool that uses publicly available satellite
 
 ![](images/intro_image.png)
 
+## Colab Notebook
+
+<br>
+
+A colab notebook has been provided to recreate the following experiment
+
+```
+maasai-village-notebook.ipynb
+```
+<br>
+
 ## Project Page
+
+An expanded description of Maasai Skywatch can be about this project can be found on my personal website here:
 
 <br>
 
