@@ -12,6 +12,17 @@ Michael Hasey, Luke McKinley, Rhys Broussard
 Maasai Skywatch is a proposed online tool that uses publicly available satellite imagery and sophisticated object-detecting algorithms to identify and locate illegal village burns and land-related injustices against the Maasai people.
 
 
+
+## Table of Contents
+
+- [Background](#Background)
+- [Dataset](#Dataset)
+- [Model](#Model)
+- [Performance](#Performance)
+- [References](#References)
+- [Citation](#Citation)
+
+
 ## Project Page
 
 <br>
@@ -28,7 +39,9 @@ A semi-nomadic ethnic group, the Maasai are based in the Great Rift Valley of Ea
 
 Government officials and foreign companies in Tanzania and Kenya are using ecotourism and conservation laws to displace indigenous Maasai people, evicting them and denying them access to watering holes and vital grazing for their livestock.  We use computer vision to provide the Maasai with a tool to quickly identify illegal village burns, forced migrations, & potential land grabs.
 
-In addition, our model can identify how many individual houses are located within each village, and thus provide an estimated inhabitant count.  As the Maasai are semi-nomadic and do not have fixed addresses, obtaining population counts is often difficult.  By using deep learning methods such as this, population counts can be acquired more quickly and accurately. 
+The advantage of AI assistance is its speed and accuracy.  While it may take multiple weeks for NGO’s, word of mouth and manual village visits to determine the extent of damage,  a combination of AI and “real time” satellite imagery may help to reduce this time to mere hours or minutes.  By providing quick and accurate counts and metrics of land-based injustices with soon after they occur, Maasai Skywatch’s AI technology can one day provide the robust, unbiased, and hard evidence needed to fight many of these social injustices and protect Maasai livelihood and land for many more generations to come.
+
+In addition to identifying land-based injustices, our model can also identify how many individual houses are located within each village, and thus provide an estimated inhabitant count.  As the Maasai are semi-nomadic and do not have fixed addresses, obtaining population counts is often difficult.  By using deep learning methods such as this, population counts can be acquired more quickly and accurately. 
 
 <br>
 
@@ -36,7 +49,7 @@ In addition, our model can identify how many individual houses are located withi
 
 <br>
 
-## Data
+## Dataset
 
 <br>
 
@@ -51,7 +64,7 @@ Using [labelImg](https://github.com/tzutalin/labelImg), we set bounding boxes ar
 <br>
 
 
-## Model Training
+## Model
 
 In order to autonomously detect Maasai villages, home burnings, and other injustices from above, we used a sophisticated neural network algorithm called [Yolo-V3](https://github.com/eriklindernoren/PyTorch-YOLOv3).  This model was trained to detect maasai villages and animal corrals, individual houses within villages, and villages that have been burned. 
 
@@ -65,7 +78,7 @@ maasai-village-notebook.ipynb
 
 <br>
 
-## Results
+## Performance
 
 <br>
 
@@ -88,3 +101,26 @@ A proposed user facing GUI to detect land-based injustices against the Maasai is
 ![](images/gui.png)
 
 <br>
+
+## References
+
+<br>
+
+1.Yolo-V3 [https://github.com/eriklindernoren/PyTorch-YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3)
+2.labelImg[https://github.com/tzutalin/labelImg] (https://github.com/tzutalin/labelImg)
+
+<br>
+
+## Citation
+
+<br>
+
+If you find our paper and dataset useful in your research, please consider citing:
+
+``` 
+@misc{mhasey2021,
+    title={3D Building Classification & Segmentation Pipeline},
+    author={Michael Hasey},
+    year={2021},
+}
+```
